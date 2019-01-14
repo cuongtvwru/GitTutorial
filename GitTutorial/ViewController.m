@@ -20,6 +20,7 @@
     NSLog(@"Hello World");
     NSLog(@"I'm TVC, I'm 21 year old");
     NSLog(@"Hello, this is commit to remote");
+    NSLog(@"Haizz");
 }
 
 
