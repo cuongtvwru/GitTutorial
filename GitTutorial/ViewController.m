@@ -22,6 +22,7 @@
     NSLog(@"Hello, this is commit to remote");
     NSLog(@"Haizz");
     NSLog(@"Test Test Test");
+    NSLog(@"WE");
 }
 
 
